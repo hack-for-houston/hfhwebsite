@@ -1,16 +1,12 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
+projects:
+  name: projects
+  description: Hack For Houston's current and previous projects.
   cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
+apps:
+  name: apps
+  description: Apps that we have made for Houston non-profits.
+  cover: assets/images/fables.jpg
+websites:
+  name: websites
+  description: Websites that we have made for Houston non-profits.
   cover: False
