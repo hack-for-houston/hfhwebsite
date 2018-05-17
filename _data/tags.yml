@@ -10,3 +10,7 @@ websites:
   name: websites
   description: Websites that we have made for Houston non-profits.
   cover: False
+featured: # These will display on the main page
+  name: featured
+  description: Our favorite projects.
+  cove: False

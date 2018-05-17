@@ -6,6 +6,7 @@ hackforhouston:
   bio: The professional publishing platform
   picture: assets/images/ghost.png
   facebook: hackforhouston
+  github: hack-for-houston
   twitter: False
   cover: False
 kyran:
@@ -17,5 +18,6 @@ kyran:
   bio: Kyran is the 2018 president of Hack for Houston.
   picture: assets/images/hannah.jpg
   facebook: False
+  github: kyranstar
   twitter: False
   cover: assets/images/hannah-cover.jpg

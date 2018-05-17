@@ -5,7 +5,7 @@ cover: assets/images/grapes.jpg
 navigation: True
 title: The Purpose of Education
 date: 1948-12-12 10:18:00
-tags: projects websites
+tags: projects websites featured
 class: post-template
 subclass: 'post tag-speeches'
 author: kyran
